@@ -3,7 +3,7 @@ import java.util.Queue;
 
 public class Test {
     public static void main(String[] args){
-        //removeAll(queue,value) sınavda kesin çıkacak
+        
 
         int data[]={18,4,3,9,4,2};
 
